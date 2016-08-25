@@ -1,0 +1,6 @@
+c:\users\rishi\documents\visual studio 2013\Projects\PatternMatching\PatternMatching\bin\Debug\PatternMatching.exe.config
+c:\users\rishi\documents\visual studio 2013\Projects\PatternMatching\PatternMatching\obj\Debug\PatternMatching.csprojResolveAssemblyReference.cache
+c:\users\rishi\documents\visual studio 2013\Projects\PatternMatching\PatternMatching\bin\Debug\PatternMatching.exe
+c:\users\rishi\documents\visual studio 2013\Projects\PatternMatching\PatternMatching\bin\Debug\PatternMatching.pdb
+c:\users\rishi\documents\visual studio 2013\Projects\PatternMatching\PatternMatching\obj\Debug\PatternMatching.exe
+c:\users\rishi\documents\visual studio 2013\Projects\PatternMatching\PatternMatching\obj\Debug\PatternMatching.pdb
